@@ -486,6 +486,20 @@ exports[`className: set to arbitraty value 1`] = `
               12:00 AM
             </td>
           </tr>
+          <tr>
+            <td
+              colSpan={7}
+            />
+            <td
+              colSpan={3}
+            >
+              <button
+                onClick={[Function]}
+              >
+                Ok
+              </button>
+            </td>
+          </tr>
         </tfoot>
       </table>
     </div>
@@ -1082,6 +1096,20 @@ exports[`dateFormat set to true 1`] = `
               12:00 AM
             </td>
           </tr>
+          <tr>
+            <td
+              colSpan={7}
+            />
+            <td
+              colSpan={3}
+            >
+              <button
+                onClick={[Function]}
+              >
+                Ok
+              </button>
+            </td>
+          </tr>
         </tfoot>
       </table>
     </div>
@@ -1573,6 +1601,20 @@ exports[`defaultValue: set to arbitrary value 1`] = `
               onClick={[Function]}
             >
               12:00 AM
+            </td>
+          </tr>
+          <tr>
+            <td
+              colSpan={7}
+            />
+            <td
+              colSpan={3}
+            >
+              <button
+                onClick={[Function]}
+              >
+                Ok
+              </button>
             </td>
           </tr>
         </tfoot>
@@ -2068,6 +2110,20 @@ exports[`everything default: renders correctly 1`] = `
               12:00 AM
             </td>
           </tr>
+          <tr>
+            <td
+              colSpan={7}
+            />
+            <td
+              colSpan={3}
+            >
+              <button
+                onClick={[Function]}
+              >
+                Ok
+              </button>
+            </td>
+          </tr>
         </tfoot>
       </table>
     </div>
@@ -2551,6 +2607,20 @@ exports[`input input: set to false 1`] = `
               onClick={[Function]}
             >
               12:00 AM
+            </td>
+          </tr>
+          <tr>
+            <td
+              colSpan={7}
+            />
+            <td
+              colSpan={3}
+            >
+              <button
+                onClick={[Function]}
+              >
+                Ok
+              </button>
             </td>
           </tr>
         </tfoot>
@@ -3046,6 +3116,20 @@ exports[`input input: set to true 1`] = `
               12:00 AM
             </td>
           </tr>
+          <tr>
+            <td
+              colSpan={7}
+            />
+            <td
+              colSpan={3}
+            >
+              <button
+                onClick={[Function]}
+              >
+                Ok
+              </button>
+            </td>
+          </tr>
         </tfoot>
       </table>
     </div>
@@ -3537,6 +3621,20 @@ exports[`inputProps with className specified 1`] = `
               onClick={[Function]}
             >
               12:00 AM
+            </td>
+          </tr>
+          <tr>
+            <td
+              colSpan={7}
+            />
+            <td
+              colSpan={3}
+            >
+              <button
+                onClick={[Function]}
+              >
+                Ok
+              </button>
             </td>
           </tr>
         </tfoot>
@@ -4033,6 +4131,20 @@ exports[`inputProps with disabled specified 1`] = `
               12:00 AM
             </td>
           </tr>
+          <tr>
+            <td
+              colSpan={7}
+            />
+            <td
+              colSpan={3}
+            >
+              <button
+                onClick={[Function]}
+              >
+                Ok
+              </button>
+            </td>
+          </tr>
         </tfoot>
       </table>
     </div>
@@ -4525,6 +4637,20 @@ exports[`inputProps with name specified 1`] = `
               onClick={[Function]}
             >
               12:00 AM
+            </td>
+          </tr>
+          <tr>
+            <td
+              colSpan={7}
+            />
+            <td
+              colSpan={3}
+            >
+              <button
+                onClick={[Function]}
+              >
+                Ok
+              </button>
             </td>
           </tr>
         </tfoot>
@@ -5021,6 +5147,20 @@ exports[`inputProps with placeholder specified 1`] = `
               12:00 AM
             </td>
           </tr>
+          <tr>
+            <td
+              colSpan={7}
+            />
+            <td
+              colSpan={3}
+            >
+              <button
+                onClick={[Function]}
+              >
+                Ok
+              </button>
+            </td>
+          </tr>
         </tfoot>
       </table>
     </div>
@@ -5515,6 +5655,20 @@ exports[`inputProps with required specified 1`] = `
               12:00 AM
             </td>
           </tr>
+          <tr>
+            <td
+              colSpan={7}
+            />
+            <td
+              colSpan={3}
+            >
+              <button
+                onClick={[Function]}
+              >
+                Ok
+              </button>
+            </td>
+          </tr>
         </tfoot>
       </table>
     </div>
@@ -5981,6 +6135,20 @@ exports[`isValidDate: only valid if after yesterday 1`] = `
               onClick={[Function]}
             >
               12:00 AM
+            </td>
+          </tr>
+          <tr>
+            <td
+              colSpan={7}
+            />
+            <td
+              colSpan={3}
+            >
+              <button
+                onClick={[Function]}
+              >
+                Ok
+              </button>
             </td>
           </tr>
         </tfoot>
@@ -6476,6 +6644,20 @@ exports[`open set to false 1`] = `
               12:00 AM
             </td>
           </tr>
+          <tr>
+            <td
+              colSpan={7}
+            />
+            <td
+              colSpan={3}
+            >
+              <button
+                onClick={[Function]}
+              >
+                Ok
+              </button>
+            </td>
+          </tr>
         </tfoot>
       </table>
     </div>
@@ -6967,6 +7149,20 @@ exports[`open set to true 1`] = `
               onClick={[Function]}
             >
               12:00 AM
+            </td>
+          </tr>
+          <tr>
+            <td
+              colSpan={7}
+            />
+            <td
+              colSpan={3}
+            >
+              <button
+                onClick={[Function]}
+              >
+                Ok
+              </button>
             </td>
           </tr>
         </tfoot>
@@ -7462,6 +7658,20 @@ exports[`renderDay: specified 1`] = `
               12:00 AM
             </td>
           </tr>
+          <tr>
+            <td
+              colSpan={7}
+            />
+            <td
+              colSpan={3}
+            >
+              <button
+                onClick={[Function]}
+              >
+                Ok
+              </button>
+            </td>
+          </tr>
         </tfoot>
       </table>
     </div>
@@ -7955,6 +8165,20 @@ exports[`renderMonth: specified 1`] = `
               12:00 AM
             </td>
           </tr>
+          <tr>
+            <td
+              colSpan={7}
+            />
+            <td
+              colSpan={3}
+            >
+              <button
+                onClick={[Function]}
+              >
+                Ok
+              </button>
+            </td>
+          </tr>
         </tfoot>
       </table>
     </div>
@@ -8446,6 +8670,20 @@ exports[`renderYear: specified 1`] = `
               onClick={[Function]}
             >
               12:00 AM
+            </td>
+          </tr>
+          <tr>
+            <td
+              colSpan={7}
+            />
+            <td
+              colSpan={3}
+            >
+              <button
+                onClick={[Function]}
+              >
+                Ok
+              </button>
             </td>
           </tr>
         </tfoot>
@@ -9423,6 +9661,20 @@ exports[`timeFormat set to true 1`] = `
               12:00 AM
             </td>
           </tr>
+          <tr>
+            <td
+              colSpan={7}
+            />
+            <td
+              colSpan={3}
+            >
+              <button
+                onClick={[Function]}
+              >
+                Ok
+              </button>
+            </td>
+          </tr>
         </tfoot>
       </table>
     </div>
@@ -9914,6 +10166,20 @@ exports[`value: set to arbitrary value 1`] = `
               onClick={[Function]}
             >
               12:00 AM
+            </td>
+          </tr>
+          <tr>
+            <td
+              colSpan={7}
+            />
+            <td
+              colSpan={3}
+            >
+              <button
+                onClick={[Function]}
+              >
+                Ok
+              </button>
             </td>
           </tr>
         </tfoot>
@@ -10409,6 +10675,20 @@ exports[`viewMode set to days 1`] = `
               12:00 AM
             </td>
           </tr>
+          <tr>
+            <td
+              colSpan={7}
+            />
+            <td
+              colSpan={3}
+            >
+              <button
+                onClick={[Function]}
+              >
+                Ok
+              </button>
+            </td>
+          </tr>
         </tfoot>
       </table>
     </div>
@@ -10900,6 +11180,20 @@ exports[`viewMode set to months 1`] = `
               onClick={[Function]}
             >
               12:00 AM
+            </td>
+          </tr>
+          <tr>
+            <td
+              colSpan={7}
+            />
+            <td
+              colSpan={3}
+            >
+              <button
+                onClick={[Function]}
+              >
+                Ok
+              </button>
             </td>
           </tr>
         </tfoot>
@@ -11395,6 +11689,20 @@ exports[`viewMode set to time 1`] = `
               12:00 AM
             </td>
           </tr>
+          <tr>
+            <td
+              colSpan={7}
+            />
+            <td
+              colSpan={3}
+            >
+              <button
+                onClick={[Function]}
+              >
+                Ok
+              </button>
+            </td>
+          </tr>
         </tfoot>
       </table>
     </div>
@@ -11886,6 +12194,20 @@ exports[`viewMode set to years 1`] = `
               onClick={[Function]}
             >
               12:00 AM
+            </td>
+          </tr>
+          <tr>
+            <td
+              colSpan={7}
+            />
+            <td
+              colSpan={3}
+            >
+              <button
+                onClick={[Function]}
+              >
+                Ok
+              </button>
             </td>
           </tr>
         </tfoot>
