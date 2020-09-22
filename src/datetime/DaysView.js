@@ -132,6 +132,12 @@ export default class DaysView extends React.Component {
 						{ date.format( this.props.timeFormat ) }
 					</td>
 				</tr>
+				<tr>
+					<td colSpan={7}></td>
+					<td colSpan={3}>
+						<button onClick={ () => this.props._closeCalendar() }>Ok</button>
+					</td>
+				</tr>
 			</tfoot>
 		);
 	}
