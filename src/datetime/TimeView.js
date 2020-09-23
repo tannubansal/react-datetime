@@ -72,8 +72,22 @@ export default class TimeView extends React.Component {
 							</td>
 						</tr>
 					</tbody>
+					{ this.renderFooter()}
 				</table>
 			</div>
+		);
+	}
+
+	renderFooter() {
+		
+		return (
+			<tfoot>
+				<tr>
+					<td>
+						<button onClick={ () => this.props._closeCalendar() }>Ok</button>
+					</td>
+				</tr>
+			</tfoot>
 		);
 	}
 

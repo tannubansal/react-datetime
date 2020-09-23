@@ -133,7 +133,7 @@ export default class DaysView extends React.Component {
 					</td>
 				</tr>
 				<tr>
-					<td colSpan={7}></td>
+					<td colSpan={6}></td>
 					<td colSpan={3}>
 						<button onClick={ () => this.props._closeCalendar() }>Ok</button>
 					</td>
