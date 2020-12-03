@@ -609,6 +609,7 @@ exports[`dateFormat set to false 1`] = `
             <td>
               <button
                 onClick={[Function]}
+                type="button"
               >
                 Ok
               </button>
