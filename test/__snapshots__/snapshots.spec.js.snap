@@ -495,6 +495,7 @@ exports[`className: set to arbitraty value 1`] = `
             >
               <button
                 onClick={[Function]}
+                type="button"
               >
                 Ok
               </button>
@@ -1117,6 +1118,7 @@ exports[`dateFormat set to true 1`] = `
             >
               <button
                 onClick={[Function]}
+                type="button"
               >
                 Ok
               </button>
@@ -1624,6 +1626,7 @@ exports[`defaultValue: set to arbitrary value 1`] = `
             >
               <button
                 onClick={[Function]}
+                type="button"
               >
                 Ok
               </button>
@@ -2131,6 +2134,7 @@ exports[`everything default: renders correctly 1`] = `
             >
               <button
                 onClick={[Function]}
+                type="button"
               >
                 Ok
               </button>
@@ -2630,6 +2634,7 @@ exports[`input input: set to false 1`] = `
             >
               <button
                 onClick={[Function]}
+                type="button"
               >
                 Ok
               </button>
@@ -3137,6 +3142,7 @@ exports[`input input: set to true 1`] = `
             >
               <button
                 onClick={[Function]}
+                type="button"
               >
                 Ok
               </button>
@@ -3644,6 +3650,7 @@ exports[`inputProps with className specified 1`] = `
             >
               <button
                 onClick={[Function]}
+                type="button"
               >
                 Ok
               </button>
@@ -4152,6 +4159,7 @@ exports[`inputProps with disabled specified 1`] = `
             >
               <button
                 onClick={[Function]}
+                type="button"
               >
                 Ok
               </button>
@@ -4660,6 +4668,7 @@ exports[`inputProps with name specified 1`] = `
             >
               <button
                 onClick={[Function]}
+                type="button"
               >
                 Ok
               </button>
@@ -5168,6 +5177,7 @@ exports[`inputProps with placeholder specified 1`] = `
             >
               <button
                 onClick={[Function]}
+                type="button"
               >
                 Ok
               </button>
@@ -5676,6 +5686,7 @@ exports[`inputProps with required specified 1`] = `
             >
               <button
                 onClick={[Function]}
+                type="button"
               >
                 Ok
               </button>
@@ -6158,6 +6169,7 @@ exports[`isValidDate: only valid if after yesterday 1`] = `
             >
               <button
                 onClick={[Function]}
+                type="button"
               >
                 Ok
               </button>
@@ -6665,6 +6677,7 @@ exports[`open set to false 1`] = `
             >
               <button
                 onClick={[Function]}
+                type="button"
               >
                 Ok
               </button>
@@ -7172,6 +7185,7 @@ exports[`open set to true 1`] = `
             >
               <button
                 onClick={[Function]}
+                type="button"
               >
                 Ok
               </button>
@@ -7679,6 +7693,7 @@ exports[`renderDay: specified 1`] = `
             >
               <button
                 onClick={[Function]}
+                type="button"
               >
                 Ok
               </button>
@@ -8186,6 +8201,7 @@ exports[`renderMonth: specified 1`] = `
             >
               <button
                 onClick={[Function]}
+                type="button"
               >
                 Ok
               </button>
@@ -8693,6 +8709,7 @@ exports[`renderYear: specified 1`] = `
             >
               <button
                 onClick={[Function]}
+                type="button"
               >
                 Ok
               </button>
@@ -9682,6 +9699,7 @@ exports[`timeFormat set to true 1`] = `
             >
               <button
                 onClick={[Function]}
+                type="button"
               >
                 Ok
               </button>
@@ -10189,6 +10207,7 @@ exports[`value: set to arbitrary value 1`] = `
             >
               <button
                 onClick={[Function]}
+                type="button"
               >
                 Ok
               </button>
@@ -10696,6 +10715,7 @@ exports[`viewMode set to days 1`] = `
             >
               <button
                 onClick={[Function]}
+                type="button"
               >
                 Ok
               </button>
@@ -11203,6 +11223,7 @@ exports[`viewMode set to months 1`] = `
             >
               <button
                 onClick={[Function]}
+                type="button"
               >
                 Ok
               </button>
@@ -11710,6 +11731,7 @@ exports[`viewMode set to time 1`] = `
             >
               <button
                 onClick={[Function]}
+                type="button"
               >
                 Ok
               </button>
@@ -12217,6 +12239,7 @@ exports[`viewMode set to years 1`] = `
             >
               <button
                 onClick={[Function]}
+                type="button"
               >
                 Ok
               </button>
